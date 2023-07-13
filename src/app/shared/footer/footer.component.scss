@@ -1,0 +1,27 @@
+footer{
+  background-color: #000000;
+  color: #ffffff;
+  padding: 60px 0;
+
+  p{
+    margin-top:20px;
+  }
+
+  .logo-footer{
+    width:161px;
+  }
+
+  .wrapp{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .social{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 150px;
+  }
+
+}
